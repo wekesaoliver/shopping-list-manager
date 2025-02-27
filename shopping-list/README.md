@@ -16,7 +16,7 @@ To get started with the Shopping List Manager, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/shopping-list-manager.git
+    git clone https://github.com/wekesaoliver/shopping-list-manager.git
     ```
 2. **Navigate to the project directory**:
     ```bash
